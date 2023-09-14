@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joelfranko" alt="joelfranko" /></a> </p>
 
-- 🔭 I’m currently working on **Typemonitor**
+- 🔭 I’m currently working on **Vulnerability Manager**
 
-- 🌱 I’m currently learning **CEHv12**
+- 🌱 **CEHv12**
 
 - 💬 Ask me about **Computer Networks**
 
 - 📫 How to reach me **joelfranko1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dtG0tM_eIiXTn7mKWRaF9vpmDNPxtHJy/view?usp=drivesdk](https://drive.google.com/file/d/1dtG0tM_eIiXTn7mKWRaF9vpmDNPxtHJy/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GE2HVvXqKfg4_qnwcvWkrOASQDgsUHy2/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
