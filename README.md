@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joelfranko" alt="joelfranko" /></a> </p>
 
-- 🔭 I’m currently working on **Vulnerability Manager**
+- 🔭 I’m currently working on **Identity and Acess Management, Bug Bounty and VAPT**
 
 - 🌱 **CEHv12**
 
-- 💬 Ask me about **Computer Networks**
+- 💬 Ask me about **Cyber Security**
 
 - 📫 How to reach me **joelfranko1234@gmail.com**
 
